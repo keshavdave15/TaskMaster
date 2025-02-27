@@ -69,4 +69,6 @@
 
 # Video Demo 
     Shows user registration, login, task creation, updating, and deletion.
-    Link:
+    Look in main branch of the repository to find it
+
+Lumaa Salary Expectations: $25 an hour +
